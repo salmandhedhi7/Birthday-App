@@ -7,6 +7,13 @@
 body{
     color: #080808;
     background: url(./Background\ \(12\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* height: 100hv; */
+    /* overflow: none; */
+    /* background-position: center; */
+    /* background-size: cover; */
 
 }
 header{
